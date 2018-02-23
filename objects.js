@@ -1,6 +1,6 @@
 var playlist = { iz: 'oe'};
 
-function updatePlayList( pl, artist, song) {
+function updatePlaylist( pl, artist, song) {
   pl.artist = song;
   return pl;
 }
